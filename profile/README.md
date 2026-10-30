@@ -3,4 +3,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Penguin-Softworks/.github/main/assets/penguin-softworks-logo-standard.png">
   <img style="width: 512px; height: 225px" alt="Penguin Softworks logo" src="https://raw.githubusercontent.com/Penguin-Softworks/.github/main/assets/penguin-softworks-logo-standard.png">
 </picture>
+<br>
 # Welcome to the Penguin Softworks GitHub page.
